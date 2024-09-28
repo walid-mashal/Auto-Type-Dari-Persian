@@ -25,7 +25,7 @@ const dariKeyboard = {
     },
 
     init() {
-        const elements = document.querySelectorAll('input[type="text"][lang="ps-dr"], textarea[lang="ps-dr"], div[contenteditable="true"][lang="ps-dr"]');
+        const elements = document.querySelectorAll('input[type="text"][lang="dr"], textarea[lang="dr"], div[contenteditable="true"][lang="dr"]');
         elements.forEach((element) => this.bindDariTyping(element));
     },
 
@@ -49,7 +49,6 @@ const dariKeyboard = {
     },
 
     handleKeyPress(e, element) {
-        console.log("keycode...........",e.charCode,e.keyCode);
         if (!ctrlIsPressed) {
             const keyCode = e.charCode || e.keyCode;
             const keyStr = shiftIsPressed ? 'shift+' + keyCode : keyCode.toString();

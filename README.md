@@ -29,4 +29,4 @@ This module will itself make the input box's text align right to left so that it
 
 This module assumes that the keyboard structure of your computer is as of the following image.
 
-![keyboard layout](https://github.com/walid-mashal/Type-Dari-Persian/blob/master/img/dari-keyboard.png)
+![keyboard layout](https://github.com/walid-mashal/Auto-Type-Dari-Persian/blob/main/img/dari-keyboard.png)
