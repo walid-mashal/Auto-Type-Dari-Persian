@@ -22,7 +22,7 @@ This module will itself make the input box's text align right to left so that it
 
 ### Demo:
 
-![](https://github.com/walid-mashal/Type-Dari-Persian/blob/master/img/auto-type-dari-demo.gif)
+![](https://github.com/walid-mashal/Auto-Type-Dari-Persian/blob/main/img/auto-type-dari-demo.gif)
 
 
 ### Keyboard Structure
