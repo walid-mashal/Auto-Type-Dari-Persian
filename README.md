@@ -20,9 +20,9 @@ For this module to work perfectly the input/textarea element needs to have an at
 This module will itself make the input box's text align right to left so that it is shown properly in the input box.
 
 
-<!-- ### Demo:
+### Demo:
 
-![](https://github.com/walid-mashal/Type-Dari-Persian/blob/master/img/pashto_type_final.gif) -->
+![](https://github.com/walid-mashal/Type-Dari-Persian/blob/master/img/auto-type-dari-demo.gif)
 
 
 ### Keyboard Structure
